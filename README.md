@@ -19,7 +19,7 @@
   </ul>
 
   <p style="font-weight: bold; color: #4CAF50;">Currently learning <span
-      style="font-style: italic; color: #FF4081;">Kotlin</span>.</p>
+      style="font-style: italic; color: #FF4081;">flutter and kotlin</span>.</p>
       
 </body>
 
