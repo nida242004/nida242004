@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **syedanidafathima1@gmail.com**
 
-- 📄 Know about my experiences [at My Resume](https://drive.google.com/file/d/1MGYitcsYgytP3J9QkTJ67HWOG3WdeoYc/view?usp=drivesdk)
+- 📄 Know about my experiences [at My Resume](https://drive.google.com/file/d/10E4-90VHl3VIavctZwj6hMrLfczPGm1_/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
