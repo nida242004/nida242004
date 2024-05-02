@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syeda Nida Fathima</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working on **Expenses Tracker app**
+- 🔭 I’m currently working on **FLUTTER CLONE APP'S**
 
-- 🌱 I’m currently learning **Flutter, Kotlin**
+- 🌱 I’m currently learning **Flutter and Python**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [My Blogs](https://brialliancebarn.blogspot.com/)
 
-- 💬 Ask me about **UI UX, C++ and designing**
+- 💬 Ask me about **UI UX, C++,python and designing**
 
 - 📫 How to reach me **syedanidafathima1@gmail.com**
 
