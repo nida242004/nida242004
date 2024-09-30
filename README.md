@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm NIDA</h1>
 <h3 align="center">A Flutter App developer and UI/UX designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nida242004&label=Profile%20views&color=0e75b6&style=plastic" alt="nida242004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nida242004" alt="nida242004" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **syedanidafathima1@gmail.com**
@@ -24,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nida242004&show_icons=true&theme=onedark&locale=en" alt="nida242004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nida242004&theme=highcontrast" alt="nida242004" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nida242004&label=Profile%20views&color=0e75b6&style=plastic" alt="nida242004" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nida242004" alt="nida242004" /></a> </p>
