@@ -5,8 +5,6 @@
   
 - 👨‍💻 All of my projects are available at [My Github profile ](https://github.com/nida242004)
 
-- 📝 I regularly write articles on [My Blogs](https://brialliancebarn.blogspot.com/)
-
 - 💬 Ask me about **UI UX, C++, ML, python and designing**
 
 - 📫 How to reach me **syedanidafathima1@gmail.com**
