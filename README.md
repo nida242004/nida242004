@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm NIDA</h1>
 <h3 align="center">A Flutter App developer and UI/UX designer</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter, Web technologies and Machine Learning**
 
 - 📫 How to reach me **syedanidafathima1@gmail.com**
 
-- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/12BfphAR1dfiBKWovvwUIHeY6CUp_0cP5/view?usp=drivesdk)
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/drive/folders/1h6S652bUlZm4HT1N5_1m57K-60ns0exZ?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
